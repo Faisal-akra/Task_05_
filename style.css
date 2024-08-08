@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    height : 15vh;
+    background-color: rgb(155, 155, 215);
+    align-items: center;
+    z-index: auto;
+    position: sticky;
+}
+
+#serh{
+    width: 50vh;
+    height: 5vh;
+}
+
+#digital-world-logo{
+   background-color: rgb(155, 155, 215) ;
+   
+}

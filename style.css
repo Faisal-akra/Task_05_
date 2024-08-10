@@ -123,3 +123,68 @@ body{
     width: 30vh;
     height: 25vh;
    }
+
+
+   /* Watch sec */
+
+   #smart-watches{
+    padding-top: 10vh;
+    padding-top: 20vh;
+   }
+
+
+   .watch-main{
+    display: flex;
+    justify-content: space-evenly;
+    
+    justify-items: center;
+    align-items: center;
+   }
+
+   .watch-div{
+    width: 30vh;
+    height: 30vh;
+    text-align: center;
+    padding: 5vh;
+    background-color: rgb(63, 131, 131);
+    
+
+   }
+
+   .watch-div img{
+    width: 20vh;
+    height: 20vh;
+   }
+
+   #watch-h{
+    margin-top: 8vh;
+    
+   }
+
+   /* watch sec */
+
+   .watch-sec-main{
+    display: flex;
+    justify-content: space-evenly;
+    
+    justify-items: center;
+    align-items: center;
+    padding-top: 2vh;
+
+   }
+
+   
+   .watch-sec-div{
+    width: 30vh;
+    height: 30vh;
+    text-align: center;
+    padding: 5vh;
+    background-color: rgb(63, 131, 131);
+    
+
+   }
+
+   .watch-div img{
+    width: 20vh;
+    height: 20vh;
+   }

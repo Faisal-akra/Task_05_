@@ -95,3 +95,31 @@ body{
     border-radius: 10px;
    }
 
+
+   /* Laptops Section */
+
+
+#laptops{
+    padding-top: 10vh;
+    padding-left: 14vh;
+}
+   .laptops_main{
+    display: flex;
+    justify-content: space-evenly;
+    
+   }
+
+
+   .laptop-img{
+    background-color: rgb(63, 131, 131);
+    text-align: center;
+    padding: 2vh;
+    position: relative;
+    z-index: -1;
+   }
+
+
+   .laptop-img img{
+    width: 30vh;
+    height: 25vh;
+   }

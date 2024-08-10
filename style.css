@@ -164,6 +164,7 @@ body{
    /* watch sec */
 
    .watch-sec-main{
+    padding-bottom: 10vh;
     display: flex;
     justify-content: space-evenly;
     
@@ -188,3 +189,15 @@ body{
     width: 20vh;
     height: 20vh;
    }
+
+
+   /* Footer */
+
+   .footermain{
+    padding-top: 10vh;
+    display: flex;
+    justify-content: center;
+    background-color: pink;
+   }
+
+   

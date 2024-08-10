@@ -15,6 +15,7 @@ body{
     align-items: center;
     z-index: auto;
     position: sticky;
+    width: 100%;
 }
 
 #serh{
@@ -197,7 +198,20 @@ body{
     padding-top: 10vh;
     display: flex;
     justify-content: center;
-    background-color: pink;
+    background-color: rgb(38, 94, 112);
+    height: 5vh;
+    text-align: center;
+
    }
 
-   
+
+   .footermain img{
+    display: inline-block;
+    margin-bottom: 10vh;
+
+   }
+
+   /* #fh{
+    margin-top: 5vh;
+    margin-right: 50vh;
+   } */

@@ -65,4 +65,33 @@ body{
     text-align: center;
 }
 
-/*  */
+/* Smart Phones */
+
+#smart_phones{
+    padding-bottom: 3vh;
+    padding-top: 8vh;
+    padding-left: 9vh;
+}
+
+.smart_phones{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    
+}
+
+
+
+
+#phone_logo{
+    background-color: rgb(63, 131, 131);
+    padding: 2vh;
+}
+
+
+#phone_logo img{
+    width: 20vh;
+    height: 20vh;
+    border-radius: 10px;
+   }
+

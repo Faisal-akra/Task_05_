@@ -132,6 +132,7 @@ body{
    #smart-watches{
     padding-top: 10vh;
     padding-top: 20vh;
+    margin-left: 5vh;
    }
 
 
@@ -218,15 +219,14 @@ body{
 
   
 /* @Media */
-/* 
-@media(min-width: 930px){
+
+/* @media(min-width: 5px) and (max-width: 930px ){
 
     body{
-        #sec_img(min-width: 930px){
-           color: red;
-           border: 10px soild black;
+        .sec_img img{
+            width: 400px;
         }
     }
+}
 
-} */
-    
+     */

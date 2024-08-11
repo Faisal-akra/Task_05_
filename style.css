@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color:lightblue;
+    background-color:rgb(147, 171, 179);
 }
 /* Header */
 .header{
@@ -38,7 +38,7 @@ body{
 
 .sec_img img{
     height: 30vh;
-    width: 100vh;
+    width: 80vh;
     /* display: inline-block; */
     position: relative;
     z-index: -1;
@@ -103,6 +103,7 @@ body{
 #laptops{
     padding-top: 10vh;
     padding-left: 14vh;
+    padding-bottom: 4vh;
 }
    .laptops_main{
     display: flex;
@@ -201,17 +202,31 @@ body{
     background-color: rgb(38, 94, 112);
     height: 5vh;
     text-align: center;
+    align-items: center;
+    width: 100%;
+    padding: 3vh;
 
    }
 
 
    .footermain img{
-    display: inline-block;
-    margin-bottom: 10vh;
+    /* margin-bottom: 10vh; */
+    text-align: center;
+    align-items: center;
 
    }
 
-   /* #fh{
-    margin-top: 5vh;
-    margin-right: 50vh;
-   } */
+  
+/* @Media */
+/* 
+@media(min-width: 930px){
+
+    body{
+        #sec_img(min-width: 930px){
+           color: red;
+           border: 10px soild black;
+        }
+    }
+
+} */
+    
